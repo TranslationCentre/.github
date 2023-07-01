@@ -1,4 +1,5 @@
 # TranslationCentre
 ~~We~~ I translate some things...
-### SubOrganizations
-Soon™️
+## SubOrganizations
+- [@CentrumTlumaczen](//github.com/CentrumTlumaczen) - Polish translations
+- [@CentrodeTraduccion](//github.com/CentrodeTraduccion) - Spanish translations
