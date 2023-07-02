@@ -1,4 +1,4 @@
-# ![Translation Centre](../text.png)
+# ![Translation Centre](https://github.com/TranslationCentre/.github/blob/main/text.png?raw=true)
 We are dedicated to improving programs, websites, and various projects by providing high-quality translations!
 
 ## Sub-Organizations
